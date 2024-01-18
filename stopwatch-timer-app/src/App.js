@@ -5,8 +5,8 @@ function App() {
       <div className="App">
             <Timer/>
             
-                </div>
-                  );
-                  }
+      </div>
+    );
+   }
 
-                  export default App;
+ export default App;
